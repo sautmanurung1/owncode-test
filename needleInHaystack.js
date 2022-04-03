@@ -1,0 +1,2 @@
+function needleInHaystack(haystack, needle) {
+}
